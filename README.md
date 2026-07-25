@@ -18,7 +18,7 @@ EIE student at Imperial College London · Incoming ML Hardware intern at ARM · 
 
 | Project | Description | Stack |
 |---|---|---|
-| **PYNQcast** | Hardware DDA raycasting engine on dual PYNQ-Z1 FPGAs with UDP multiplayer and AWS/DynamoDB backend — built as part of [@PYNQcast](https://github.com/PYNQcast) | SystemVerilog · Python · AWS |
+| **PYNQcast** | Hardware DDA raycasting engine on PYNQ-Z1 FPGAs with UDP multiplayer and AWS/DynamoDB backend — built as part of [@PYNQcast](https://github.com/PYNQcast) | SystemVerilog · Python · AWS |
 | **C90 → RISC-V Compiler** | Full C90-to-RISC-V compiler built with Flex & Bison, targeting RV32IM from scratch | C++ · Flex · Bison |
 | **Pipelined RISC-V CPU** | RV32IM pipelined CPU with hazard detection, branch prediction, and data cache | SystemVerilog · Verilator |
 | **Unix Shell & UDP Chat Server** | POSIX-compliant shell with multithreaded UDP chat server built for software systems coursework | C · POSIX · Networking |
