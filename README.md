@@ -24,4 +24,4 @@ EIE student at Imperial College London · Incoming ML Hardware intern at ARM · 
 | **Unix Shell & UDP Chat Server** | POSIX-compliant shell with multithreaded UDP chat server built for software systems coursework | C · POSIX · Networking |
 ---
 
-Imperial College London · EIE Year 2 · ARM Cambridge
+Imperial College London · EIE Year 3 · ARM Cambridge
